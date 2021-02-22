@@ -1,4 +1,4 @@
-# HW1-HTML-Git-CSS
+# Accessibility-and-Optimization
 
  ## A client wanted to rework their current code to meet accessibility standards and is optimized for search engines. 
 
